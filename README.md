@@ -1,5 +1,7 @@
 # hyprnav
 
+ Smart directional window navigation for Hyprland. Provides accurate focus movement based on real window positions, working seamlessly with both floating and tiled layouts. 
+
 Instead of relying on window creation order or Hyprland’s default directional logic, **hyprnav** analyses the *actual on-screen geometry* of your windows to navigate intelligently in any direction.
 
 It works in both **tiled** and **floating** layouts, but its benefits are most visible in floating setups, large dashboards, or custom window arrangements where **true spatial navigation** is essential.
